@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aiman J aka **AimanJ**
+# 👋 Hey, I'm Aiman J
  
 **CS (Netcentric Computing) Student · Digital Forensics · CTF Player · Game Dev Newbie**
  
