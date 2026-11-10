@@ -13,45 +13,11 @@
 | | |
 |---|---|
 | 🎓 **Studying** | Bachelor of Computer Science (Hons) – Netcentric Computing at UiTM Shah Alam. Diploma in CS from UiTM Kedah. Anugerah Dekan, FSKM. |
-| 🔍 **Forensics** | 6-month Digital Forensics internship at CyberSecurity Malaysia. Data acquisition and analysis work, including the Cam Kenderaan and Cam Muka projects. CDFFR training. |
 | 🚩 **CTF** | Forensics and crypto challenges. 13th of 76 at Cyber DSA CTF. |
 | 🛡️ **Community** | Vice President 1, UiTM Cyberheroes Club. Organising the RTWH Commando Series security workshops. |
 | 🎮 **Side quests** | Learning game dev, building my own tools, and turning my portfolio to look like an operating system. |
 | 💼 **Looking for** | Degree internship from **March 2027** in cybersecurity / digital forensics. |
- 
----
 
-## 🛠️ Projects
- 
-### 🔍 Security & forensics
- 
-| Project | What it does |
-|---|---|
-| **SIDEA** | Final year project. Detects and extracts hidden data from steganographic images. |
-| **BLADE** | Single-file, offline CTF toolkit. |
-| **[DEV-NETRECON](https://github.com/JAimanJ/DEV-NETRECON-260319-S1)** | Network reconnaissance tool. |
- 
-### 🤖 AI & hackathons
- 
-| Project | What it does |
-|---|---|
-| **Project Guardian** | SEDIC26 defence-AI hackathon. YOLOv8 model for military ship detection. |
-| **Samina** | DevLeague 2026. ESG document analysis with confidence-tagged evidence. |
- 
-### 🌐 Web & apps
- 
-| Project | What it does |
-|---|---|
-| **[AimanOS](https://aimanos.vercel.app)** | My portfolio, built as a retro desktop OS. Vite + React + TypeScript, hosted on Vercel. |
-| **Gym Tracker** | Mobile app for logging food, calories, and gym equipment. |
-| **[Warframe MasteryChaser](https://github.com/JAimanJ/Warframe-MasteryChaser)** | Mastery-rank tracker for the game Warframe. |
- 
-### 🎮 Games
- 
-| Project | What it does |
-|---|---|
-| **[Zoltraak](https://github.com/JAimanJ/ProjectZoltraak)** | Frieren-inspired magic combat game. Started in Godot 4, now porting to Unity. My first game. |
- 
 ---
  
 ## 🧰 Toolbox
