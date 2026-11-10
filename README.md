@@ -7,3 +7,72 @@
 [![GitHub](https://img.shields.io/badge/-JAimanJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAimanJ)
  
 **🖥️ Portfolio:** [aimanos.vercel.app](https://aimanos.vercel.app)
+
+## 🧭 At a glance
+ 
+| | |
+|---|---|
+| 🎓 **Studying** | Bachelor of Computer Science (Hons) – Netcentric Computing at UiTM Shah Alam. Diploma in CS from UiTM Kedah. Anugerah Dekan, FSKM. |
+| 🔍 **Forensics** | 6-month Digital Forensics internship at CyberSecurity Malaysia. Data acquisition and analysis work, including the Cam Kenderaan and Cam Muka projects. CDFFR training. |
+| 🚩 **CTF** | Forensics and crypto challenges. 13th of 76 at Cyber DSA CTF. |
+| 🛡️ **Community** | Vice President 1, UiTM Cyberheroes Club. Organising the RTWH Commando Series security workshops. |
+| 🎮 **Side quests** | Learning game dev, building my own tools, and turning my portfolio to look like an operating system. |
+| 💼 **Looking for** | Degree internship from **March 2027** in cybersecurity / digital forensics. |
+ 
+---
+
+## 🛠️ Projects
+ 
+### 🔍 Security & forensics
+ 
+| Project | What it does |
+|---|---|
+| **SIDEA** | Final year project. Detects and extracts hidden data from steganographic images. |
+| **BLADE** | Single-file, offline CTF toolkit. |
+| **[DEV-NETRECON](https://github.com/JAimanJ/DEV-NETRECON-260319-S1)** | Network reconnaissance tool. |
+ 
+### 🤖 AI & hackathons
+ 
+| Project | What it does |
+|---|---|
+| **Project Guardian** | SEDIC26 defence-AI hackathon. YOLOv8 model for military ship detection. |
+| **Samina** | DevLeague 2026. ESG document analysis with confidence-tagged evidence. |
+ 
+### 🌐 Web & apps
+ 
+| Project | What it does |
+|---|---|
+| **[AimanOS](https://aimanos.vercel.app)** | My portfolio, built as a retro desktop OS. Vite + React + TypeScript, hosted on Vercel. |
+| **Gym Tracker** | Mobile app for logging food, calories, and gym equipment. |
+| **[Warframe MasteryChaser](https://github.com/JAimanJ/Warframe-MasteryChaser)** | Mastery-rank tracker for the game Warframe. |
+ 
+### 🎮 Games
+ 
+| Project | What it does |
+|---|---|
+| **[Zoltraak](https://github.com/JAimanJ/ProjectZoltraak)** | Frieren-inspired magic combat game. Started in Godot 4, now porting to Unity. My first game. |
+ 
+---
+ 
+## 🧰 Toolbox
+ 
+**Languages & frameworks**
+ 
+[![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,vite)](https://skillicons.dev)
+ 
+**Platforms & tools**
+ 
+[![Tools](https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode,godot,unity)](https://skillicons.dev)
+ 
+**Forensics**
+ 
+![Volatility](https://img.shields.io/badge/Volatility_2-2E3440?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-B22222?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-4A90E2?style=for-the-badge)
+ 
+---
+ 
+## Come chat 🌟
+ 
+Open to collabs, CTF teams, and internship chats. Say hi on [LinkedIn](https://www.linkedin.com/in/aiman-jamaluddin-9422312a9/).
